@@ -1,4 +1,4 @@
-# Perceiva Website
+# EdgeVerse - Perceiva Website
 
 A modern React website for Perceiva — AI-powered perception and safety solutions for automotive and smart mobility. Built with Vite, React, Tailwind CSS, Framer Motion, and Recharts.
 
@@ -56,3 +56,4 @@ src/
 ├── hooks/          # useInView, etc.
 └── assets/         # Images, icons
 ```
+
